@@ -46,3 +46,5 @@ But I have not in order to keep the code "simpler" and readable without being mi
 Likewise, since this is just a demo for how to do a thing, it doesn't actually do anything with that thing, so there's no use of databasing to manage data. 
 
 Clean out the "uploads" folder after you're done playing with it, since nothing deletes your fake uploads.
+
+This is based on upload/progress display from https://pythonise.com/categories/javascript/upload-progress-bar-xmlhttprequest , thanks very much for this example.  
