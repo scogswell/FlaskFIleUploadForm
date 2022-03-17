@@ -13,7 +13,7 @@ This uses packages for `Flask`, `Flask-wtf`, `email-validation` and their depend
  1. Make a virtual environment:
 
         python -m venv .venv
-        . .venv.bin/activate
+        . .venv/bin/activate
 
  2. Install requirements automatically (flask, flask-wtf, email-validator):
 
